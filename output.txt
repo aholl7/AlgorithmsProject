@@ -1,0 +1,35 @@
+     First Name                     Last Name     Grade       GPA
+        Brittni                       Roberts        96         3
+    Providencia                         Lange        96       3.2
+          Laine                     Robertson        96       3.6
+       Maryjane                    Washington        95       3.7
+         Minnie                      Calderon        95       3.6
+           Vita                        Powell        95       3.3
+        Manuela                       Swanner        95       3.1
+          Cyrus                   Stoltenberg        94       3.7
+           Dale                       Johnson        93       3.1
+           Lona                        Cabana        90       3.9
+        Felisha                         Cyrus        90       3.5
+         Danita                        Carson        89       2.8
+        Virgina                       Addison        87       3.2
+          Ilona                       Valenti        87       3.8
+       Drusilla                      Chalmers        82       3.5
+         Jerold                          Gade        81         3
+       Shantell                       Burgess        80       3.4
+           Lula                           Mai        80       3.7
+           Nora                      Richards        79       2.7
+         Shayla                        Wesley        79         3
+         Marlen                      Freedman        78       2.6
+         Wilmer                       Nolasco        77       3.5
+          Zella                     Henderson        73       2.8
+         Elisha                      Baptiste        73       3.2
+         Yuonne                         Henry        73         3
+        Ruthann                         Kilby        72       3.2
+       Sherlene                     Arlington        65       2.6
+           Sima                       Robledo        61       3.1
+          Royal                       Simmons        61       3.1
+         Shanti                         Foutz        60       3.1
+
+The lowest grade is a 60
+The highest grade is a 96
+The average grade is a 82.4
